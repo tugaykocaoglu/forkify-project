@@ -16,5 +16,13 @@
   "dependencies": {
     "core-js": "^3.21.1",
     "regenerator-runtime": "^0.13.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tugaykocaoglu/forkify-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tugaykocaoglu/forkify-project/issues"
+  },
+  "homepage": "https://github.com/tugaykocaoglu/forkify-project#readme"
 }
