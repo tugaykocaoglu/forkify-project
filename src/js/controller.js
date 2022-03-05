@@ -144,5 +144,6 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
   newFeature();
+  newFeature();
 };
 init();
